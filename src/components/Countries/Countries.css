@@ -1,0 +1,36 @@
+.country-container{
+
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 8px;
+}
+
+.visited{
+
+    background-color: bisque;
+}
+
+
+.ul-li li{
+
+   
+    padding-right: 30px;
+  
+}
+
+
+
+
+.flag-container img{
+
+    width:100px;
+    margin:5px;
+    display: block;
+    margin:0 auto;
+    margin-top: 5px;
+}
+
+
+
+
+
